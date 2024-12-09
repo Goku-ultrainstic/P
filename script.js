@@ -1,0 +1,3 @@
+function Aviso(){
+    alert("Listo")
+}
